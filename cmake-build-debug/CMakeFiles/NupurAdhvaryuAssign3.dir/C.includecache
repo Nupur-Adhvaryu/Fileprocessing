@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Windows/CLionProjects/NupurAdhvaryuAssign3/Gtarecords.h
+
+C:/Users/Windows/CLionProjects/NupurAdhvaryuAssign3/main.c
+stdio.h
+-
+Gtarecords.h
+C:/Users/Windows/CLionProjects/NupurAdhvaryuAssign3/Gtarecords.h
+
